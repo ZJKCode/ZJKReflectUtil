@@ -1,0 +1,22 @@
+{
+  "name": "ZJKReflectUtil",
+  "version": "0.1.0",
+  "summary": "A short description of ZJKReflectUtil.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/k721684713@163.com/ZJKReflectUtil",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "k721684713@163.com": "zhangjikuan@winchannel.net"
+  },
+  "source": {
+    "git": "https://github.com/k721684713@163.com/ZJKReflectUtil.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZJKReflectUtil/Classes/**/*"
+}

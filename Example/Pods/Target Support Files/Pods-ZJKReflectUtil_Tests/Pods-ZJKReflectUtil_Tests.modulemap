@@ -1,0 +1,6 @@
+framework module Pods_ZJKReflectUtil_Tests {
+  umbrella header "Pods-ZJKReflectUtil_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - ZJKReflectUtil (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - ZJKReflectUtil (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  ZJKReflectUtil:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  ZJKReflectUtil: f99cf8b6378734f7f4d3f4bc66588a403c811460
+
+PODFILE CHECKSUM: 55c16b6ca3dd1f44464c15d34fdbc2fc3986a4d9
+
+COCOAPODS: 1.8.4
